@@ -1,0 +1,15 @@
+C:\Users\eliudsantillan\Documents\GitHub\exercises1\Exercices1\Exercices1\bin\Debug\net6.0\Exercices1.exe
+C:\Users\eliudsantillan\Documents\GitHub\exercises1\Exercices1\Exercices1\bin\Debug\net6.0\Exercices1.deps.json
+C:\Users\eliudsantillan\Documents\GitHub\exercises1\Exercices1\Exercices1\bin\Debug\net6.0\Exercices1.runtimeconfig.json
+C:\Users\eliudsantillan\Documents\GitHub\exercises1\Exercices1\Exercices1\bin\Debug\net6.0\Exercices1.dll
+C:\Users\eliudsantillan\Documents\GitHub\exercises1\Exercices1\Exercices1\bin\Debug\net6.0\Exercices1.pdb
+C:\Users\eliudsantillan\Documents\GitHub\exercises1\Exercices1\Exercices1\obj\Debug\net6.0\Exercices1.csproj.AssemblyReference.cache
+C:\Users\eliudsantillan\Documents\GitHub\exercises1\Exercices1\Exercices1\obj\Debug\net6.0\Exercices1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliudsantillan\Documents\GitHub\exercises1\Exercices1\Exercices1\obj\Debug\net6.0\Exercices1.AssemblyInfoInputs.cache
+C:\Users\eliudsantillan\Documents\GitHub\exercises1\Exercices1\Exercices1\obj\Debug\net6.0\Exercices1.AssemblyInfo.cs
+C:\Users\eliudsantillan\Documents\GitHub\exercises1\Exercices1\Exercices1\obj\Debug\net6.0\Exercices1.csproj.CoreCompileInputs.cache
+C:\Users\eliudsantillan\Documents\GitHub\exercises1\Exercices1\Exercices1\obj\Debug\net6.0\Exercices1.dll
+C:\Users\eliudsantillan\Documents\GitHub\exercises1\Exercices1\Exercices1\obj\Debug\net6.0\refint\Exercices1.dll
+C:\Users\eliudsantillan\Documents\GitHub\exercises1\Exercices1\Exercices1\obj\Debug\net6.0\Exercices1.pdb
+C:\Users\eliudsantillan\Documents\GitHub\exercises1\Exercices1\Exercices1\obj\Debug\net6.0\Exercices1.genruntimeconfig.cache
+C:\Users\eliudsantillan\Documents\GitHub\exercises1\Exercices1\Exercices1\obj\Debug\net6.0\ref\Exercices1.dll
