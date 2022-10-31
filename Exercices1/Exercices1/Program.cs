@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using Exercices1.Section10;
 using Exercices1.Section3;
 using Exercices1.Section4;
 using Exercices1.Section5;
@@ -30,7 +31,9 @@ Console.WriteLine("this is the output of the 9th section!");
 Exer11.Program.Run();
 Exer12.Program.Run();
 
-
+Console.WriteLine("this is the output of the 10th section!");
+Exer12B.Run();
+System.IO.File.ReadAllLines(@"\Users\eliudsantillan\Documents\GitHub\exercises1\Exercices1\Exercices1\Section10\output.txt");
 
 
 
