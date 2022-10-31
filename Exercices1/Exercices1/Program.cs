@@ -4,6 +4,7 @@ using Exercices1.Section4;
 using Exercices1.Section5;
 using Exercices1.Section6;
 using Exercices1.Section7;
+using Exercices1.Section9;
 using System;
 
 
@@ -24,6 +25,10 @@ Console.WriteLine("this is the output of the 7th section!");
 Exer7.Run();
 Exer9.Solution();
 Exer10.Convert(4);
+
+Console.WriteLine("this is the output of the 9th section!");
+Exer11.Program.Run();
+Exer12.Program.Run();
 
 
 
